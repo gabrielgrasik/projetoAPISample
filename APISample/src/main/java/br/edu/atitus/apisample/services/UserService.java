@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 import br.edu.atitus.apisample.entities.UserEntity;
 import br.edu.atitus.apisample.repositories.UserRepository;
 
-//Spring, gerencia objetos dessa classe pra mim
+
 @Service 
 public class UserService {
 	// Essa classe possui uma dependência de um objeto UserRepository
